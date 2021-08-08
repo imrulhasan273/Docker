@@ -53,3 +53,22 @@ root~$ sudo systemctl status docker
 
 ---
 
+
+# **Install a Specific Version of Docker on CentOS**
+
+---
+
+```shell
+yum list docker-ce --showduplicates | sort –r
+```
+
+> The system should give you a list of different versions from the repositories you have enabled above.
+
+
+```shell
+sudo yum install docker-ce-<VERSION STRING>
+```
+
+---
+
+
