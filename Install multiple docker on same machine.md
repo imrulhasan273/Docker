@@ -74,6 +74,15 @@ exit
 
 ---
 
+## Install Apps/package
+
+---
+
+- No need to use `sudo` before the command as docker comes along with root it doesn't require `sudo`.
+
+---
+
+
 
 
 
