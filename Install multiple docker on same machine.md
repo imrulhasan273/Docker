@@ -12,18 +12,25 @@
 ~$ docker pull centOS
 ```
 
-- name the centOS as `Master`
+- Name the centOS as `Master`
 
 ```shell
 ~$ docker run -d -t --name master centos
 ```
 
-- check the docker container list
+- Check the docker container list
 
 ```shell
 ~$ docker ps
 ```
 
+- Go to `centos`
+
+```shell
+docker exec -it master
+```
+
 ---
+
 
 
