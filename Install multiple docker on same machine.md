@@ -24,10 +24,10 @@
 ~$ docker ps
 ```
 
-- Go to `centos`
+- Go to Master (`centOS`)
 
 ```shell
-docker exec -it master
+docker exec -it master bash # now I am in master (centos)
 ```
 
 ---
