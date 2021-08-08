@@ -30,6 +30,12 @@
 docker exec -it master bash # now I am in master (centos)
 ```
 
+- Exit from `master`
+
+```shell
+exit
+```
+
 ---
 
 
