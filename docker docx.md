@@ -1,8 +1,8 @@
-# *The Ultimate Docker Course*
+# **The Ultimate Docker Course**
 
 ---
 
-# SECTION 1
+# **SECTION 1**
 
 ---
 
@@ -13,6 +13,28 @@
 5. Development Workflow
 
 ---
+
+> Defn: A platform for building, running and shipping applications
+
+--- 
+
+##  Virtual Machine vs Container
+
+---
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
+
+---
+
+
 
 
 
