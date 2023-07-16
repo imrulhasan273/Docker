@@ -1,4 +1,4 @@
-# **The Ultimate Docker Course*
+# *The Ultimate Docker Course*
 
 ---
 
