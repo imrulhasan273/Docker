@@ -2,7 +2,7 @@
 
 ---
 
-## SECTION
+# SECTION 1
 
 ---
 
@@ -13,5 +13,6 @@
 5. Development Workflow
 
 ---
+
 
 
