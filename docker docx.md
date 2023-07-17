@@ -87,7 +87,7 @@
 ---
 
 
-> LESSIONS8
+> LESSIONS - 8
 
 
 ---
