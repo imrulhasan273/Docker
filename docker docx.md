@@ -87,10 +87,36 @@
 ---
 
 
-> LESSIONS - 8
+> See official documentation
 
 
 ---
+
+## Development Workflow
+ 
+---
+
+![Alt text](IMG/1.jpg)
+
+![Alt text](IMG/2.jpg)
+
+![Alt text](IMG/3.jpg)
+
+- Run the docker image
+
+```sh
+docker run ...
+```
+
+![Alt text](IMG/4.jpg)
+
+---
+
+
+
+
+
+
 
 
 
